@@ -8,7 +8,7 @@
 
 - <b>Heat Transfer & CFD Projects</b>
   - [Shell and Tube Heat Exchanger Analysis using ANSYS Fluent](https://github.com/yourusername/heat-exchanger-analysis)
-  - [Roof Heat Loss and Insulation Analysis](https://github.com/yourusername/roof-insulation-analysis)
+  - [Roof Heat Loss and Insulation Analysis](https://github.com/engrubaidkhalid/Roof-Thermal-Analysis-with-without-Insulation-ANSYS)
   - [2D Cylinder Flow Simulation and Vibration Analysis](https://github.com/yourusername/cylinder-vibration)
 
 

@@ -7,12 +7,8 @@
 <h2>👨‍💻 Mechanical Engineering Projects:</h2>
 
 - <b>Heat Transfer & CFD Projects</b>
-  - [Shell and Tube Heat Exchanger Analysis using ANSYS Fluent](https://github.com/yourusername/heat-exchanger-analysis)
   - [Roof Heat Loss and Insulation Analysis](https://github.com/engrubaidkhalid/Roof-Thermal-Analysis-with-without-Insulation-ANSYS)
-  - [2D Cylinder Flow Simulation and Vibration Analysis](https://github.com/yourusername/cylinder-vibration)
-
-
-
+  
 <h2>🎓 Education </h2>
 
 - Bachelor of Science in Mechanical Engineering

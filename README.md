@@ -94,5 +94,4 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 
 <br/><br/>
 
-📞 +923472199427  
 📧 engrubaidkhalid321@gmail.com
